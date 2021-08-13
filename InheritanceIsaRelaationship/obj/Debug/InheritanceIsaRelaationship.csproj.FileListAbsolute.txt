@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritanceIsaRelaationship\bin\Debug\InheritanceIsaRelaationship.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritanceIsaRelaationship\bin\Debug\InheritanceIsaRelaationship.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritanceIsaRelaationship\obj\Debug\InheritanceIsaRelaationship.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritanceIsaRelaationship\obj\Debug\InheritanceIsaRelaationship.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritanceIsaRelaationship\obj\Debug\InheritanceIsaRelaationship.pdb

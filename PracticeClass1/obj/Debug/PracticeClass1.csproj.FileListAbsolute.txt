@@ -1,0 +1,6 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\PracticeClass1\bin\Debug\PracticeClass1.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\PracticeClass1\bin\Debug\PracticeClass1.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\PracticeClass1\obj\Debug\PracticeClass1.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\PracticeClass1\obj\Debug\PracticeClass1.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\PracticeClass1\obj\Debug\PracticeClass1.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\PracticeClass1\obj\Debug\PracticeClass1.csprojAssemblyReference.cache

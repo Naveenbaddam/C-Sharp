@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritancePractice\bin\Debug\InheritancePractice.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritancePractice\obj\Debug\InheritancePractice.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritancePractice\obj\Debug\InheritancePractice.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritancePractice\bin\Debug\InheritancePractice.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\InheritancePractice\obj\Debug\InheritancePractice.exe

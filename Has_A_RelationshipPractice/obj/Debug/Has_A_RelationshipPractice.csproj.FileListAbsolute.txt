@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has_A_RelationshipPractice\bin\Debug\Has_A_RelationshipPractice.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has_A_RelationshipPractice\bin\Debug\Has_A_RelationshipPractice.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has_A_RelationshipPractice\obj\Debug\Has_A_RelationshipPractice.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has_A_RelationshipPractice\obj\Debug\Has_A_RelationshipPractice.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has_A_RelationshipPractice\obj\Debug\Has_A_RelationshipPractice.pdb

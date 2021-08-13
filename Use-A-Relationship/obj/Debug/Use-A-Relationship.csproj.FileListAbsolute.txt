@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\Use-A-Relationship\bin\Debug\Use-A-Relationship.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Use-A-Relationship\bin\Debug\Use-A-Relationship.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\Use-A-Relationship\obj\Debug\Use-A-Relationship.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\Use-A-Relationship\obj\Debug\Use-A-Relationship.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Use-A-Relationship\obj\Debug\Use-A-Relationship.pdb

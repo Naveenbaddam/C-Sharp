@@ -1,0 +1,6 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithoutReturnType\bin\Debug\StaticFunctionWithoutReturnType.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithoutReturnType\bin\Debug\StaticFunctionWithoutReturnType.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithoutReturnType\obj\Debug\StaticFunctionWithoutReturnType.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithoutReturnType\obj\Debug\StaticFunctionWithoutReturnType.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithoutReturnType\obj\Debug\StaticFunctionWithoutReturnType.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithoutReturnType\obj\Debug\StaticFunctionWithoutReturnType.csprojAssemblyReference.cache

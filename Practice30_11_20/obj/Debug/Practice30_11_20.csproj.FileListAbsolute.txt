@@ -1,0 +1,6 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\Practice30_11_20\bin\Debug\Practice30_11_20.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\Practice30_11_20\obj\Debug\Practice30_11_20.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\Practice30_11_20\obj\Debug\Practice30_11_20.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\Practice30_11_20\bin\Debug\Practice30_11_20.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Practice30_11_20\obj\Debug\Practice30_11_20.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Practice30_11_20\obj\Debug\Practice30_11_20.csprojAssemblyReference.cache

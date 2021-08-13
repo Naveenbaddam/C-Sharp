@@ -1,0 +1,6 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\NonStaticWithReturnType\obj\Debug\NonStaticWithReturnType.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\NonStaticWithReturnType\bin\Debug\NonStaticWithReturnType.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\NonStaticWithReturnType\bin\Debug\NonStaticWithReturnType.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\NonStaticWithReturnType\obj\Debug\NonStaticWithReturnType.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\NonStaticWithReturnType\obj\Debug\NonStaticWithReturnType.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\NonStaticWithReturnType\obj\Debug\NonStaticWithReturnType.csprojAssemblyReference.cache

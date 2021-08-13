@@ -1,0 +1,6 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\ObjectCreation\bin\Debug\ObjectCreation.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\ObjectCreation\bin\Debug\ObjectCreation.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\ObjectCreation\obj\Debug\ObjectCreation.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\ObjectCreation\obj\Debug\ObjectCreation.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\ObjectCreation\obj\Debug\ObjectCreation.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\ObjectCreation\obj\Debug\ObjectCreation.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\ParameterisedConstructor\bin\Debug\ParameterisedConstructor.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\ParameterisedConstructor\bin\Debug\ParameterisedConstructor.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\ParameterisedConstructor\obj\Debug\ParameterisedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\ParameterisedConstructor\obj\Debug\ParameterisedConstructor.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\ParameterisedConstructor\obj\Debug\ParameterisedConstructor.pdb

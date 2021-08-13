@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithReturnType\bin\Debug\StaticFunctionWithReturnType.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithReturnType\bin\Debug\StaticFunctionWithReturnType.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithReturnType\obj\Debug\StaticFunctionWithReturnType.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithReturnType\obj\Debug\StaticFunctionWithReturnType.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\StaticFunctionWithReturnType\obj\Debug\StaticFunctionWithReturnType.pdb

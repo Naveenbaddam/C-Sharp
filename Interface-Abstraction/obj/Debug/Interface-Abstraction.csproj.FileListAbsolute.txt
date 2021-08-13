@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\Interface-Abstraction\bin\Debug\Interface-Abstraction.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Interface-Abstraction\bin\Debug\Interface-Abstraction.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\Interface-Abstraction\obj\Debug\Interface-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\Interface-Abstraction\obj\Debug\Interface-Abstraction.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Interface-Abstraction\obj\Debug\Interface-Abstraction.pdb

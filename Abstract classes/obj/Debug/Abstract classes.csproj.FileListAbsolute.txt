@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\Abstract classes\bin\Debug\Abstract classes.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Abstract classes\bin\Debug\Abstract classes.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\Abstract classes\obj\Debug\Abstract classes.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\Abstract classes\obj\Debug\Abstract classes.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Abstract classes\obj\Debug\Abstract classes.pdb

@@ -1,0 +1,5 @@
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has-A-Relation\bin\Debug\Has-A-Relation.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has-A-Relation\bin\Debug\Has-A-Relation.pdb
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has-A-Relation\obj\Debug\Has-A-Relation.csproj.CoreCompileInputs.cache
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has-A-Relation\obj\Debug\Has-A-Relation.exe
+C:\Users\badda\OneDrive\Desktop\C# Programming\Has-A-Relation\obj\Debug\Has-A-Relation.pdb
